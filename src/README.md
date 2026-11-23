@@ -8,4 +8,4 @@ assets are built from these files.
 - `fileflows.lang` — 14 language sections
 - `fileflows.svg` — application icon
 
-Build toolchain: https://github.com/Irvingfei/tos-docker-apps
+Build toolchain: https://github.com/Irvingfei/docker-apps
