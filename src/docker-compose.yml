@@ -1,0 +1,23 @@
+version: "3.8"
+services:
+  fileflows:
+    image: revenz/fileflows:26.11
+    container_name: fileflows
+    restart: unless-stopped
+    ports:
+      - "19200:5000"
+    volumes:
+      - ./data/data:/app/Data
+      - ./data/logs:/app/Logs
+      - ./data/temp:/app/temp
+    environment:
+      - TZ=Asia/Shanghai
+      - PUID=1000
+      - PGID=1000
+    security_opt:
+      - no-new-privileges:true
+
+x-app-meta:
+  web:
+    port: 19200
+    protocol: http

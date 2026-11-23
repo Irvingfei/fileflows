@@ -1,0 +1,97 @@
+[zh-cn]
+name = "FileFlows"
+auth = "TerraMaster 社区开发者"
+descript = "自动化的媒体文件处理流水线。按自定义规则对视频和音频转码、重封装、补充或替换音轨、提取字幕并整理媒体库，处理流程与任务队列通过浏览器管理。"
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "数据保存在应用数据目录的 data、logs 与 temp 子目录中，卸载时只有勾选删除数据才会清理。"
+
+[zh-hk]
+name = "FileFlows"
+auth = "TerraMaster 社群開發者"
+descript = "自動化的媒體檔案處理流水線。按自訂規則對影片和音訊轉碼、重新封裝、補充或替換音軌、擷取字幕並整理媒體庫，處理流程與任務佇列可透過瀏覽器管理。"
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "資料保存在應用資料目錄的 data、logs 與 temp 子目錄中，解除安裝時只有勾選刪除資料才會清理。"
+
+[en-us]
+name = "FileFlows"
+auth = "TerraMaster Community Developer"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[fr-fr]
+name = "FileFlows"
+auth = "Développeur communautaire TerraMaster"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[de-de]
+name = "FileFlows"
+auth = "TerraMaster Community-Entwickler"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[it-it]
+name = "FileFlows"
+auth = "Sviluppatore della community TerraMaster"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[es-es]
+name = "FileFlows"
+auth = "Desarrollador de la comunidad TerraMaster"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[hu-hu]
+name = "FileFlows"
+auth = "TerraMaster közösségi fejlesztő"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[ja-jp]
+name = "FileFlows"
+auth = "TerraMaster コミュニティ開発者"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[ko-kr]
+name = "FileFlows"
+auth = "TerraMaster 커뮤니티 개발자"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[pl-pl]
+name = "FileFlows"
+auth = "Społecznościowy deweloper TerraMaster"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[ru-ru]
+name = "FileFlows"
+auth = "Разработчик сообщества TerraMaster"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[tr-tr]
+name = "FileFlows"
+auth = "TerraMaster topluluk geliştiricisi"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
+
+[pt-pt]
+name = "FileFlows"
+auth = "Programador da comunidade TerraMaster"
+descript = "An automated media processing pipeline. Transcode, remux, add or replace audio tracks, extract subtitles and organize your library with custom rules, managed from a browser."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image revenz/fileflows with persistent data, logs and temp folders."
+important = "Data is kept under the application data directory in the data, logs and temp subfolders; uninstalling only removes it when delete-data is selected."
